@@ -8,3 +8,5 @@ Pueden hacer lo que quieran...
 
 ## Actualizar
 Se actualiza desde GitHub
+
+- Se quiere probar el uso de PULL con FastForward
