@@ -10,3 +10,4 @@ Pueden hacer lo que quieran...
 Se actualiza desde GitHub
 
 - Se quiere probar el uso de PULL con FastForward
+- Se procede a hacer un cambio local para ver la diferencia entre las **RAMAS**.
