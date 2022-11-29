@@ -11,3 +11,4 @@ Se actualiza desde GitHub
 
 - Se quiere probar el uso de PULL con FastForward
 - Se procede a hacer un cambio local para ver la diferencia entre las **RAMAS**.
+- Producir error cambio en GITHUB, usar REBASE.
